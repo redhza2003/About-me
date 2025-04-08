@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is red and Im 22y and Im from KSA & UAE And My</p>
+<p align="left">My name is red and Im 22y and Im from KSA & UAE</p>
 
 ###
 
